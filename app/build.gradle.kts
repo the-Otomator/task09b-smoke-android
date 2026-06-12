@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "pro.gesher.twa"
+    namespace = "pro.gesher.task09bsmoke"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "pro.gesher.twa"
+        applicationId = "pro.gesher.task09bsmoke"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
