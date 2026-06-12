@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="gesher_status_bar">#1a1a2e</color>
+    <color name="gesher_status_bar">#2196F3</color>
+    <color name="gesher_splash_bg">#FFFFFF</color>
 </resources>
